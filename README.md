@@ -1,6 +1,6 @@
-# Chore, I’ll Do It!
+# FairShare
 
-Chore, I’ll Do It! is a collaborative web application that helps households assign, track, and complete chores fairly. Users can create or join a household, set chore preferences, receive automated weekly chore assignments, track completion over time, and view a leaderboard and fairness score.
+FairShare! is a collaborative web application that helps households assign, track, and complete chores fairly. Users can create or join a household, set chore preferences, receive automated weekly chore assignments, track completion over time, and view a leaderboard and fairness score.
 
 This project was built as a full-stack group term project using a React + Vite frontend and an Express + Firebase backend, with an emphasis on usability, persistence, and fairness in chore assignment.
 
